@@ -1,0 +1,12 @@
+1. Python 3.x
+
+2. VS Code editor to run the program.
+
+3. Python Libraries:
+		* pyttsx3
+		*pyaudio
+		*speech_recognition
+		*webbrowser
+		*wikipedia
+		
+		
